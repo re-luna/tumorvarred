@@ -145,4 +145,5 @@ The result of the analysis is saved in the folder result/average.
 Examples of numerical simulations:
     
 Simulation of reduced variance: https://www.youtube.com/watch?v=PgKsiV-DO3
+    
 Simulation with angiogenesis:  https://www.youtube.com/watch?v=pFa0oxxwt7k
