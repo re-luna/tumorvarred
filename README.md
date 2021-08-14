@@ -142,7 +142,7 @@ Important: STEP_SIZE and STEP_Q must coincide with the input in default.ini.
 The result of the analysis is saved in the folder result/average.
 
 ## Video of simulations
-    For examples of numerical simulations see:
+Examples of numerical simulations:
     
-    Simulation of reduced variance: https://www.youtube.com/watch?v=PgKsiV-DO34
-    Simulation with angiogenesis:  https://www.youtube.com/watch?v=pFa0oxxwt7k
+Simulation of reduced variance: https://www.youtube.com/watch?v=PgKsiV-DO3
+Simulation with angiogenesis:  https://www.youtube.com/watch?v=pFa0oxxwt7k
