@@ -140,3 +140,9 @@ STEP_SIZE is the time step size, STEP_Q is the quantity of time steps simulated 
 Important: STEP_SIZE and STEP_Q must coincide with the input in default.ini.
 
 The result of the analysis is saved in the folder result/average.
+
+## Video of simulations
+    For examples of numerical simulations see:
+    
+    Simulation of reduced variance: https://www.youtube.com/watch?v=PgKsiV-DO34
+    Simulation with angiogenesis:  https://www.youtube.com/watch?v=pFa0oxxwt7k
