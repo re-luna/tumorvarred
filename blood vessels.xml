@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+    <node>
+        <x>-1.0</x>
+        <y>12.0</y>
+        <p>-25.0</p>
+    </node>
+    <node>
+        <x>50.0</x>
+        <y>12.0</y>
+        <p>10.0</p>
+    </node>
+    <node>
+        <x>-1.0</x>
+        <y>37.0</y>
+        <p>-25.0</p>
+    </node>
+    <node>
+        <x>50.0</x>
+        <y>37.0</y>
+        <p>10.0</p>
+    </node>
+    <connection>
+        <in_node>0</in_node>
+        <out_node>1</out_node>
+    </connection>
+    <connection>
+        <in_node>2</in_node>
+        <out_node>3</out_node>
+    </connection>
+</data>
